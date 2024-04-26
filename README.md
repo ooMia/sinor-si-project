@@ -23,7 +23,7 @@ ApiService (updateCacheById) : Redis에서 업데이트는 확인 했으나, 역
 -nginx.conf에서 로깅관련 clientIp를 받기 위한 헤더를 추가하였으나 미출력
 
 
-### [Open in Docker Dev Environments](https://open.docker.com/dashboard/dev-envs?url=https://github.com/ooMia/Docker_Nginx_Spring-Gradle_MySQL/tree/develop/)
+### [Open in Docker Dev Environments](https://open.docker.com/dashboard/dev-envs?url=https://github.com/ooMia/sinor-si-project/tree/main/)
 
 > - Nginx as reverseProxy
 > - (...) as cacheServer
@@ -36,10 +36,6 @@ ApiService (updateCacheById) : Redis에서 업데이트는 확인 했으나, 역
 ## mainServer
 
 [main/src/test/test_main.http](main/src/test/test_main.http)
-
-# SpringBoot , JPA , Docker , GithubAction
-
-<img alt="스크린샷 2023-11-07 오후 2.21.17.png" src="..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fb9%2Fdzvtpkz54xx2qkvjdh6xzzr40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Myfz4J%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-07%20%EC%98%A4%ED%9B%84%202.21.17.png"/>
 
 ## ✨Common
 
